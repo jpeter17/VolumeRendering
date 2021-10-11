@@ -2,4 +2,4 @@
 
 Volume Rendering of Supernova Temperature Gradient
 
-![alt text](https://github.com/jpeter17/VolumeRendering/blob/main/VolumeRendering.png)
+![VolumeRendering.png](https://github.com/jpeter17/VolumeRendering/blob/main/VolumeRendering.png)
